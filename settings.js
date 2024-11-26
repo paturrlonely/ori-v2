@@ -5,11 +5,11 @@ const chalk = require('chalk')
 const moment = require('moment-timezone')
 
 //========== Setting Owner ==========//
-global.owner = "6289508082845"
-global.idsaluran = "120363201331652484@newsletter"
+global.owner = "6281260431003"
+global.idsaluran = "6281260431003@newsletter"
 global.namaowner = "Koi"
 global.namabot = "おさらぎ"
-global.linkyt = 'https://www.youtube.com/@qyuunee' 
+global.linkyt = 'https://chat.whatsapp.com/CRqd9QL3qtsFOk4T0fdbjI' 
 global.mail = 'cs@neekoi.me' // 
 global.packname = 'Osaragi V2.0'
 global.author = `Date: ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}\nYouTube: QyuuNee\nBot: 0895-3253-44177`
